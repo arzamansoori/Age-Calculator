@@ -22,5 +22,5 @@ Age Calculator is a website in which you can calculate your age in days, months 
 #
 To calculate your age or to see the website. Please click on the deployed link below.
 
-[Age Calculator](https://rpsgameproject.netlify.app/)
+[Age Calculator](https://projectagecalculator.netlify.app/)
 
